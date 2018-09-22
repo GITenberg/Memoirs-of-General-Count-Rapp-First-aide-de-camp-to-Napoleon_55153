@@ -1,11 +1,16 @@
 _repo: Memoirs-of-General-Count-Rapp-First-aide-de-camp-to-Napoleon_55153
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55153-h/images/cover.jpg
 creator:
   author:
     agent_name: Rapp, Jean Comte
     gutenberg_agent_id: '48207'
     url: http://www.gutenberg.org/2009/agents/48207
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55153#Memoirs-of-General-Count-Rapp-First-aide-de-camp-to-Napoleon
 gutenberg_issued: '2017-07-19'
 gutenberg_type: Text
 identifiers:
